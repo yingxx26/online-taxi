@@ -1,0 +1,43 @@
+/target/
+/log/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+.meatdata/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Project exclude paths
+/account-service/target/
+/dispatch-service/target/
+/file-service/target/
+/government-service/target/
+/government-upload/target/
+/internal-service/target/
+/map-service/target/
+/message-service/target/
+/monitor-service/target/
+/netty-service/target/
+/order-service/target/
+/pay-service/target/
+/timing-service/target/
+/valuation-service/target/
